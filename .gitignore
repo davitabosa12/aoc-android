@@ -189,3 +189,6 @@ replay_pid*
 **/categories/
 **/.env
 **/repos
+
+**/bohr_reports
+!**/bohr_reports/**.csv

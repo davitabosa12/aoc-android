@@ -1,0 +1,4 @@
+/mnt/4846A54B46A53A98/AOSP/build/bazel/examples/android_app/java/com/app/Jni.java
+/mnt/4846A54B46A53A98/AOSP/build/bazel/examples/android_app/java/com/app/Jni.java
+/mnt/4846A54B46A53A98/AOSP/build/bazel/examples/android_app/java/com/app/Jni.java
+/mnt/4846A54B46A53A98/AOSP/build/bazel/examples/android_app/java/com/app/Jni.java
